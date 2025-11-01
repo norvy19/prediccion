@@ -20,7 +20,7 @@ limites = {
 vars_minmax = ['Glucosa_en_ayunas', 'Glucosa_postprandial', 'Hemoglobina_glicosilada_(HbA1c)']
 vars_std = ['Edad', 'Puntaje_riesgo_diabetes']
 
-st.title("Predicción de Diabetes")
+st.title("Predicción de Diabetes HOLAAAAAAAAAAA")
 
 # 🔹 Selección del modelo
 modelo_seleccionado = st.selectbox(

@@ -4,7 +4,7 @@ import joblib
 
 # 🔹 Cargar modelos previamente entrenados
 modelo_lr = joblib.load('modelo_diabetes.pkl')
-modelo_rf = joblib.load('modelo_rf_diabetes.pkl')
+modelo_rf = joblib.load('modelo_rf_diabetes.joblib')
 modelo_xgb = joblib.load('modelo_xgb_diabetes.pkl')
 
 # 🔹 Definir los límites de cada variable según tu dataset
